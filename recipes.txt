@@ -4,7 +4,9 @@ kheer
 pasta
 
 kicthche fry
-fish
+cake
+pizza
+pie
 
 
 sorry
